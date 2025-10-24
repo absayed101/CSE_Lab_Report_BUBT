@@ -4,7 +4,7 @@
 int main(){
 
     int n;
-    printf("Enter size if array : ");
+    printf("Enter size of array : ");
     scanf("%d",&n);
 
     int arr[n],i;
@@ -24,3 +24,4 @@ int main(){
 
     return 0;
 }
+
