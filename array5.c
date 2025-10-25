@@ -1,4 +1,4 @@
-//WAP max & min elements
+//WAP Linear search
 
 #include<stdio.h>
 int main(){
@@ -31,3 +31,4 @@ int main(){
     }
     return 0;
 }
+
