@@ -5,7 +5,7 @@ Faculty Name: Shuvo Biswas
 <br>
 Faculty Code :SBI
 <br>
-Lecturer,CSE,BUBT
+Lecturer:CSE,BUBT
 <br>
 Author: Abdullah Sayed
 <br>
